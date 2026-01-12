@@ -125,3 +125,11 @@ This lab will expand on:
 - Redundancy design principles
 
 
+---
+
+**Lab Series:** Physical Infrastructure Foundations  
+**Lab ID:** 01 – Rack Layout & Airflow  
+**Author:** Ronique (“TheYoungTech”)  
+**Focus:** Physical design, airflow, thermal awareness, and failure prevention  
+**Track:** CAINO – Chief AI Network Engineer Officer  
+**Status:** Complete
