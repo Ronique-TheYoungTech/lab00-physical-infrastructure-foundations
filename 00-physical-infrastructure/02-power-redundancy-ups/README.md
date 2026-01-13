@@ -27,10 +27,10 @@ Why redundancy exists Rosa: lives in paths, not devices
 🏗️ Power Architecture Overview
 
 This lab uses a standard enterprise A/B power model:
-
+```bash
 UPS → PDU-A → PSU-A → Server
 UPS → PDU-B → PSU-B → Server
-
+```
 
 Each path is independent.
 Failure of any single component does not result in downtime.
@@ -38,8 +38,7 @@ Failure of any single component does not result in downtime.
 🖼️ Diagram – Rack Power Redundancy (A/B Power)
 
 Rack Power Redundancy – A/B Power Design (Front View)
-👉 Open full-size diagram
-
+![Rack Power Redundancy – A/B Power Design](./diagrams/power-redundancy.png)
 Figure 1: UPS-fed dual PDUs supplying a dual-PSU server using independent A/B power paths.
 
 🔍 Diagram Explanation
@@ -165,3 +164,7 @@ Cloud provider physical infrastructure
 High-availability system design
 
 Power redundancy is not optional — it is fundamental.
+
+
+
+
