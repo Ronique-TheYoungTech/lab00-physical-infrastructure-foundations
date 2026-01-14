@@ -38,6 +38,7 @@ Failure of any single component does not result in downtime.
 🖼️ Diagram – Rack Power Redundancy (A/B Power)
 
 Rack Power Redundancy – A/B Power Design (Front View)
+
 ![Rack Power Redundancy – A/B Power Design](./diagrams/power-redundancy.png)
 
 Figure 1: UPS-fed dual PDUs supplying a dual-PSU server using independent A/B power paths.
