@@ -27,7 +27,7 @@ The physical cabling diagram for this lab is provided as a static screenshot for
   `./screenshots/cabling-infrastructure-mdf.jpeg`
 
 - **Source Diagram (Editable):**  
-  `./03-cabling-infrastructure.drawio`
+  `./03-cabling-infrastructure.png`
 
 ## Diagram Overview
 The following overview describes the physical cabling flow shown in  
