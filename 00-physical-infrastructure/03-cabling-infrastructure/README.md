@@ -31,7 +31,7 @@ The physical cabling diagram for this lab is provided as a static screenshot for
 
 ## Diagram Overview
 The following overview describes the physical cabling flow shown in  
-`./screenshots/cabling-infrastructure-mdf.jpeg`.
+`./screenshots/03-cabling-infrastructure.png`.
 
 
 **Topology Flow (Top-Down):**
