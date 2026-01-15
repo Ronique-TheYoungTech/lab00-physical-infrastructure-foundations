@@ -19,16 +19,6 @@ This diagram represents how enterprise networks are **physically cabled and term
 The goal is **clarity, serviceability, and scalability**.
 
 ---
-## Diagram Reference
-
-The physical cabling diagram for this lab is provided as a static screenshot for quick review and as a draw.io source file for modification or inspection.
-
-- **Primary Reference (Screenshot):**  
-  `./screenshots/cabling-infrastructure-mdf.jpeg`
-
-- **Source Diagram (Editable):**  
-  `./03-cabling-infrastructure.png`
-
 ## Diagram Overview
 The following overview describes the physical cabling flow shown in  
 ![Cabling Infrastructure – MDF](./screenshots/03-cabling-infrastructure.png)
