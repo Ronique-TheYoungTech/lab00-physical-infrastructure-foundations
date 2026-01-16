@@ -19,9 +19,13 @@ This diagram represents how enterprise networks are **physically cabled and term
 The goal is **clarity, serviceability, and scalability**.
 
 ---
+
 ## Diagram Overview
-The following overview describes the physical cabling flow shown in  
+
+The following overview describes the physical cabling flow shown in the MDF:
+
 ![Cabling Infrastructure MDF](./screenshots/cabling-infrastructure.png)
+
 
 
 
