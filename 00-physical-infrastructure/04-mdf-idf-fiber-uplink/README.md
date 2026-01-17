@@ -158,18 +158,4 @@ The design scales cleanly into:
 
 ---
 
-## Phase Transition
-With this lab complete:
-
-✅ **Physical Infrastructure Phase CLOSED**  
-➡️ Transition to **Phase 2 – Logical Network Design**
-
-Upcoming focus:
-- VLAN design
-- Access vs trunk ports
-- Inter-VLAN routing
-- Logical topology documentation
-
----
-
 
