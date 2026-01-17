@@ -23,8 +23,8 @@ The goal is **clarity, serviceability, and scalability**.
 ## Diagram Overview
 
 The following overview describes the physical cabling flow shown in the MDF:
+![Cabling Infrastructure - MDF](./screenshots/cabling-infrastructure-mdf.png)
 
-![CABLING-INFRASTRUCTURE](./screenshots/cabling-infrastructure.png)
 
 
 
